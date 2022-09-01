@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demo del proyecto
+
+Aquí pueden ver una demo del funcionamiento de la aplicación.
+
+![demoReactFE3.gif](https://raw.githubusercontent.com/Frontend-III/entregable-frontend-3-junio22/main/demoReactFE3.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
